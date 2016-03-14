@@ -1,0 +1,5 @@
+name "mywallet"
+description "A minimal D application."
+copyright "Copyright © 2016, vagrant"
+authors "vagrant"
+dependency "openssl" version="~>1.1.4+1.0.1g"
