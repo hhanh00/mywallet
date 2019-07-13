@@ -1,5 +1,5 @@
 My wallet is a small BIP-32 key/address generator. I don't use it for anything really fancy but I got fed up of complex wallet
-applications that suddenly become incompatible with their previous versions or are simply abandonned.
+applications that suddenly become incompatible with their previous versions or are simply abandoned.
 
 My wallet follows 
 
